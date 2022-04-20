@@ -1,0 +1,8 @@
+_G.Name = "You"
+_G.Prefix = "-"
+_G.Gui = false -- Coming soon, *hint hint*
+_G.Admins = {
+    "Friend"
+}
+_G.PriorityBot = "MainBot1"
+loadstring(game:HttpGet("https://yscripts.de/Scripts/botscript", true))()

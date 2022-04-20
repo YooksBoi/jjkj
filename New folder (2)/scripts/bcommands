@@ -1,0 +1,25 @@
+wsa [number]
+
+follow [player]
+
+unfollow [player]
+
+bhop
+
+un bhop
+
+bring bot [bot username]
+
+kill bot [bot username]
+
+reset bots
+
+bot say [quote] - All bots say [quote]
+
+quit
+
+fling [Player Name (Doesn't have to be full username)]
+
+advert [quote]
+
+un advert
